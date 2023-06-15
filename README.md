@@ -2,7 +2,7 @@
 The Open Source Code For ICML 2023 Paper "Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs"
 ![goal](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning/assets/75228223/51f8538b-f4ce-4fed-b6fb-95cc35aabec0)
 
-The arxiv link for our paper is https://arxiv.org/submit/4952503 
+The arxiv link for our paper is [https://arxiv.org/submit/4952503 ](https://arxiv.org/abs/2306.07608)
 
 
 # Overview
